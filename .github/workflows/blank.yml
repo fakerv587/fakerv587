@@ -11,6 +11,6 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: fakerv587/waka-readme@master
+      - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ 0ab45427-52c9-4265-90e0-280b17fd305c }}
+          WAKATIME_API_KEY: ${{ secret.WAKA }}
