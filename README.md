@@ -6,7 +6,7 @@
 - 💬 Ask me about anything you like
 - 📫 How to reach me: 670686205@qq.com or nanzh@mail2.sysu.edu.cn
 - 😄 Pronouns: Pumpkin
-- ⚡ Fun fact: 🌹🌹🌹[![Years Badge](https://badges.pufler.dev/years/fakerv587)](https://badges.pufler.dev)
+- ⚡ Fun fact: 🌹🌹🌹I'm here about[![Years Badge](https://badges.pufler.dev/years/fakerv587)](https://badges.pufler.dev)
 
 <!--START_SECTION:waka-->
 ```text
