@@ -11,9 +11,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-HTML         1 hr 36 mins    ██████████████████████▓░░   90.53 % 
-Markdown     6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-C#           2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+
 ```
 <!--END_SECTION:waka-->
 
