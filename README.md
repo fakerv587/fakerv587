@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-
+C#         37 mins         █████████████████████████   99.51 % 
 ```
 <!--END_SECTION:waka-->
 
