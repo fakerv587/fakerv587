@@ -11,9 +11,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python     15 mins         ███████████████▓░░░░░░░░░   62.07 % 
-Markdown   5 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.09 % 
-INI        4 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
